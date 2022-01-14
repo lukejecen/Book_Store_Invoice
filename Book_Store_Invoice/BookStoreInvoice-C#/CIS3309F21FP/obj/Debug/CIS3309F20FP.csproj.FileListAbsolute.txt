@@ -1,0 +1,35 @@
+C:\Users\joeju\source\repos\CIS3309F20FP\CIS3309F20FP\bin\Debug\CIS3309F20FP.exe.config
+C:\Users\joeju\source\repos\CIS3309F20FP\CIS3309F20FP\bin\Debug\CIS3309F20FP.exe
+C:\Users\joeju\source\repos\CIS3309F20FP\CIS3309F20FP\bin\Debug\CIS3309F20FP.pdb
+C:\Users\joeju\source\repos\CIS3309F20FP\CIS3309F20FP\obj\Debug\CIS3309F20FP.csprojAssemblyReference.cache
+C:\Users\joeju\source\repos\CIS3309F20FP\CIS3309F20FP\obj\Debug\CIS3309F20FP.frmMain.resources
+C:\Users\joeju\source\repos\CIS3309F20FP\CIS3309F20FP\obj\Debug\CIS3309F20FP.Properties.Resources.resources
+C:\Users\joeju\source\repos\CIS3309F20FP\CIS3309F20FP\obj\Debug\CIS3309F20FP.csproj.GenerateResource.cache
+C:\Users\joeju\source\repos\CIS3309F20FP\CIS3309F20FP\obj\Debug\CIS3309F20FP.csproj.CoreCompileInputs.cache
+C:\Users\joeju\source\repos\CIS3309F20FP\CIS3309F20FP\obj\Debug\CIS3309F20FP.exe
+C:\Users\joeju\source\repos\CIS3309F20FP\CIS3309F20FP\obj\Debug\CIS3309F20FP.pdb
+C:\Users\joeju\source\repos\CIS3309F20FP\CIS3309F20FP\obj\Debug\CIS3309F20FP.frmCustomers.resources
+C:\Users\joeju\source\repos\CIS3309F20FP\CIS3309F20FP\obj\Debug\CIS3309F20FP.frmEditItem.resources
+C:\Users\joeju\source\repos\CIS3309F20FP\CIS3309F20FP\obj\Debug\CIS3309F20FP.frmMMABooksOES.resources
+C:\Users\joeju\OneDrive\Desktop\CIS3309F20FPa\CIS3309F20FP\bin\Debug\CIS3309F20FP.exe.config
+C:\Users\joeju\OneDrive\Desktop\CIS3309F20FPa\CIS3309F20FP\bin\Debug\CIS3309F20FP.exe
+C:\Users\joeju\OneDrive\Desktop\CIS3309F20FPa\CIS3309F20FP\bin\Debug\CIS3309F20FP.pdb
+C:\Users\joeju\OneDrive\Desktop\CIS3309F20FPa\CIS3309F20FP\obj\Debug\CIS3309F20FP.csprojAssemblyReference.cache
+C:\Users\joeju\OneDrive\Desktop\CIS3309F20FPa\CIS3309F20FP\obj\Debug\CIS3309F20FP.frmEditItem.resources
+C:\Users\joeju\OneDrive\Desktop\CIS3309F20FPa\CIS3309F20FP\obj\Debug\CIS3309F20FP.frmMain.resources
+C:\Users\joeju\OneDrive\Desktop\CIS3309F20FPa\CIS3309F20FP\obj\Debug\CIS3309F20FP.Properties.Resources.resources
+C:\Users\joeju\OneDrive\Desktop\CIS3309F20FPa\CIS3309F20FP\obj\Debug\CIS3309F20FP.csproj.GenerateResource.cache
+C:\Users\joeju\OneDrive\Desktop\CIS3309F20FPa\CIS3309F20FP\obj\Debug\CIS3309F20FP.csproj.CoreCompileInputs.cache
+C:\Users\joeju\OneDrive\Desktop\CIS3309F20FPa\CIS3309F20FP\obj\Debug\CIS3309F20FP.exe
+C:\Users\joeju\OneDrive\Desktop\CIS3309F20FPa\CIS3309F20FP\obj\Debug\CIS3309F20FP.pdb
+C:\Users\joeju\OneDrive\Desktop\CIS 3309 Materials\CIS3309F20FP-Solution\CIS3309F20FP\obj\Debug\CIS3309F20FP.csprojAssemblyReference.cache
+C:\Users\joeju\OneDrive\Desktop\CIS 3309 Materials\CIS3309F20FP-Solution\CIS3309F20FP\obj\Debug\CIS3309F20FP.frmEditItem.resources
+C:\Users\joeju\OneDrive\Desktop\CIS 3309 Materials\CIS3309F20FP-Solution\CIS3309F20FP\obj\Debug\CIS3309F20FP.frmMain.resources
+C:\Users\joeju\OneDrive\Desktop\CIS 3309 Materials\CIS3309F20FP-Solution\CIS3309F20FP\obj\Debug\CIS3309F20FP.Properties.Resources.resources
+C:\Users\joeju\OneDrive\Desktop\CIS 3309 Materials\CIS3309F20FP-Solution\CIS3309F20FP\obj\Debug\CIS3309F20FP.csproj.GenerateResource.cache
+C:\Users\joeju\OneDrive\Desktop\CIS 3309 Materials\CIS3309F20FP-Solution\CIS3309F20FP\obj\Debug\CIS3309F20FP.csproj.CoreCompileInputs.cache
+C:\Users\joeju\OneDrive\Desktop\CIS 3309 Materials\CIS3309F20FP-Solution\CIS3309F20FP\obj\Debug\CIS3309F20FP.exe
+C:\Users\joeju\OneDrive\Desktop\CIS 3309 Materials\CIS3309F20FP-Solution\CIS3309F20FP\obj\Debug\CIS3309F20FP.pdb
+C:\Users\joeju\OneDrive\Desktop\CIS 3309 Materials\CIS3309F20FP-Solution\CIS3309F20FP\bin\Debug\CIS3309F20FP.exe.config
+C:\Users\joeju\OneDrive\Desktop\CIS 3309 Materials\CIS3309F20FP-Solution\CIS3309F20FP\bin\Debug\CIS3309F20FP.exe
+C:\Users\joeju\OneDrive\Desktop\CIS 3309 Materials\CIS3309F20FP-Solution\CIS3309F20FP\bin\Debug\CIS3309F20FP.pdb

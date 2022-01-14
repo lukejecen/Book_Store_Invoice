@@ -1,0 +1,13 @@
+C:\Users\lukej\source\repos\Cis3309F21FinalProject\CIS3309F20FP-Starter\CIS3309F21FP\obj\Debug\CIS3309F21FP.csproj.AssemblyReference.cache
+C:\Users\lukej\source\repos\Cis3309F21FinalProject\CIS3309F20FP-Starter\CIS3309F21FP\obj\Debug\CIS3309F21FP.frmEditItem.resources
+C:\Users\lukej\source\repos\Cis3309F21FinalProject\CIS3309F20FP-Starter\CIS3309F21FP\obj\Debug\CIS3309F21FP.frmMain.resources
+C:\Users\lukej\source\repos\Cis3309F21FinalProject\CIS3309F20FP-Starter\CIS3309F21FP\obj\Debug\CIS3309F20FP.Properties.Resources.resources
+C:\Users\lukej\source\repos\Cis3309F21FinalProject\CIS3309F20FP-Starter\CIS3309F21FP\obj\Debug\CIS3309F21FP.csproj.GenerateResource.cache
+C:\Users\lukej\source\repos\Cis3309F21FinalProject\CIS3309F20FP-Starter\CIS3309F21FP\obj\Debug\CIS3309F21FP.csproj.CoreCompileInputs.cache
+C:\Users\lukej\source\repos\Cis3309F21FinalProject\CIS3309F20FP-Starter\CIS3309F21FP\obj\Debug\CIS3309F20FP.exe
+C:\Users\lukej\source\repos\Cis3309F21FinalProject\CIS3309F20FP-Starter\CIS3309F21FP\obj\Debug\CIS3309F20FP.pdb
+C:\Users\lukej\source\repos\Cis3309F21FinalProject\CIS3309F20FP-Starter\CIS3309F21FP\bin\Debug\MMABooks.mdf
+C:\Users\lukej\source\repos\Cis3309F21FinalProject\CIS3309F20FP-Starter\CIS3309F21FP\bin\Debug\MMABooks_log.ldf
+C:\Users\lukej\source\repos\Cis3309F21FinalProject\CIS3309F20FP-Starter\CIS3309F21FP\bin\Debug\CIS3309F20FP.exe.config
+C:\Users\lukej\source\repos\Cis3309F21FinalProject\CIS3309F20FP-Starter\CIS3309F21FP\bin\Debug\CIS3309F20FP.exe
+C:\Users\lukej\source\repos\Cis3309F21FinalProject\CIS3309F20FP-Starter\CIS3309F21FP\bin\Debug\CIS3309F20FP.pdb
